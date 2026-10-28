@@ -761,6 +761,13 @@ section {
   background-position: center center;
 }
 
+.card-bg-9 {
+  background: linear-gradient(135deg, #001000 0%, #050505 60%);
+  background-image: url(images/portfolio\ 9.jpg);
+  background-size: cover;
+  background-position: center center;
+}
+
 /* EXPERTISE */
 #expertise {
   background: var(--black);
